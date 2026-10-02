@@ -1,4 +1,4 @@
-<p height="12px" style="margin: 0; padding-top: 12px;"></p>
+<img src="https://via.placeholder.com/1x12/00000000/00000000" width="1" height="12" />
 
 <h1 align="center">Hi there, I'm Abdulrehman! 👋</h1>
 
