@@ -1,18 +1,9 @@
-<style>
-  .responsive-heading {
-    text-align: center;
-  }
-  @media (max-width: 768px) {
-    .responsive-heading {
-      text-align: left !important;
-    }
-  }
-</style>
-
-<h1 class="responsive-heading" align="center">Hi there, I'm Abdulrehman! 👋</h1>
+<div align="center">
+  <h1 align="left" style="display: inline-block;">Hi there, I'm Abdulrehman! 👋</h1>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2B88F0&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
 </p>
 
 <table align="center" width="650">
