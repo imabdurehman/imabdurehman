@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Abdulrehman! 👋
+# Hi, I'm Abdulrehman! 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
 </div>
 <div align="center">
