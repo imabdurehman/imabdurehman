@@ -11,8 +11,10 @@
 ```js
 const Abdulrehman = {
   role: "MERN Stack Intern",
-  location: "Lahore, Pakistan",
+  location: "Lahore, PK",
   focus: "Full-Stack Web Development",
   stack: ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
   passion: "Building AI-powered web applications",
+  open_to: "Collaborations & new opportunities",
+  contact: "abdurehman2309@gmail.com",
 };
