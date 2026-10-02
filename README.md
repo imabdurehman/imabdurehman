@@ -1,12 +1,10 @@
-<img src="https://via.placeholder.com/1x12/00000000/00000000" width="1" height="12" />
+<div align="center">
 
-<h1 align="center">Hi there, I'm Abdulrehman! 👋</h1>
+# Hi there, I'm Abdulrehman! 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=23629A&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
 
-<table align="center" width="650">
+<table align="center">
 <tr>
 <td>
 
