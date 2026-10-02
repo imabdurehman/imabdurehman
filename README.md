@@ -10,23 +10,9 @@
 
 ```js
 const Abdulrehman = {
-  role: "MERN Stack Intern",
-  focus: "Full-Stack Web Development",
-
-  stack: [
-    "JavaScript",
-    "React.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB"
-  ],
-
-  frontend: ["React.js", "Next.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "REST APIs"],
-
-  databases: ["MongoDB", "PostgreSQL", "MySQL"],
-  tools: ["Git", "GitHub", "Postman"],
-
-  currently: "Building MERN Stack Applications",
-  learning: "AI & Modern Web Technologies"
+  role: "Software Engineer",
+  focus: "MERN Stack Development",
+  stack: ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB"],
+  currently: "MERN Stack Intern",
+  passion: "Building AI-powered web applications",
 };
