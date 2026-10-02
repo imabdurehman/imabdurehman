@@ -1,4 +1,4 @@
-<h1 align="center" style="padding-top: 20px;">Hi there, I'm Abdulrehman! 👋</h1>
+<h1 align="center" style="padding-top: 40px;">Hi there, I'm Abdulrehman! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
