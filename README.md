@@ -1,6 +1,4 @@
-<div align="center">
-  <h1 align="left" style="display: inline-block;">Hi there, I'm Abdulrehman! 👋</h1>
-</div>
+<h1 align="center">Hi there, I'm Abdulrehman! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&pause=1000&color=1A8CFF&center=true&vCenter=true&width=500&lines=Software+Engineer;MERN+Stack+Intern" alt="Typing SVG" />
