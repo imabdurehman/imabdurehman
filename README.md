@@ -1,4 +1,4 @@
-<p height="15px" style="margin: 0; padding-top: 15px;"></p>
+<p height="12px" style="margin: 0; padding-top: 12px;"></p>
 
 <h1 align="center">Hi there, I'm Abdulrehman! 👋</h1>
 
