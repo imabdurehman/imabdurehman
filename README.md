@@ -8,17 +8,21 @@
 <tr>
 <td valign="top">
 
-```js
+```typescript
 const Abdulrehman = {
   role: "MERN Stack Intern",
   location: "Lahore, PK",
   focus: "Full-Stack Web Apps",
-  stack: ["React", "Node.js", "Express", "MongoDB"],
+  stack: ["JavaScript", "React", "Node.js", "Express", "MongoDB"],
   passion: "Building AI-powered web applications",
   open_to: "Collaborations & new opportunities",
   contact: "abdurehman2309@gmail.com",
 };
 ```
+
+</td>
+<td valign="top">
+<img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </td>
 </tr>
 </table>
